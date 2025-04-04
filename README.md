@@ -159,8 +159,8 @@ A properly configured homelab environment using Packet Tracer can effectively si
 Understanding port roles (access vs trunk) is critical for achieving both isolation and connectivity across layers.
 
 Why This Project Stands Out
-I didn’t just follow a checklist—I understood how VLANs impact security, traffic flow, and scalability.
+I didn’t just follow a checklist: I understood how VLANs impact security, traffic flow, and scalability.
 My setup reflects real business needs: separation of duties, voice and data traffic optimization, and network resilience.
-I approached the problem with troubleshooting in mind—testing scenarios for both success and failure.
+I approached the problem with troubleshooting in mind testing scenarios for both success and failure.
 Documentation and structure were priorities throughout, just like in any real-world IT environment.
 
